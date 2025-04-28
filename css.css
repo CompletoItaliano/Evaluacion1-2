@@ -1,0 +1,31 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #fcfcfc;
+  }
+  
+  .carousel-caption {
+    background: rgba(0, 0, 0, 0.6);
+    padding: 1rem;
+    border-radius: 1rem;
+  }
+  
+  .card:hover {
+    transform: scale(1.03);
+    transition: transform 0.3s;
+  }
+  
+  section {
+    animation: fadeInUp 1s ease-in;
+  }
+  
+  .carouselautos{
+    text-emphasis: none;
+    color: black;
+  }
+  .carousel-caption h1 {
+    color: rgb(0, 0, 0);
+  }
+  .card:hover {
+    transform: scale(1.05);
+    transition: transform 0.3s ease;
+  }
